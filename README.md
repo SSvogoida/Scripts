@@ -1,6 +1,6 @@
 # MelyakScripts
 ## Здесь я выкладываю свои скрипты для боблакса, которые буду делать пока буду учить Lua.
 
-<h1 align="center"> Туториал по установке в виде loadstring:
+<div align="center"> Туториал по установке в виде loadstring:
 Пишем в наш инжектор:
           loadstring
