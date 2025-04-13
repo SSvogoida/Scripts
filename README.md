@@ -6,8 +6,7 @@
 ##
 
 Пишем в наш инжектор:
-          ```loadstring(game:HttpGet("url"))()``` (в поле url вставляем нашу ссылку на raw файл со скриптом)
 
-или ```loadstring(game:GetObjects("rbxassetid://id")[1].Source)()``` (в поле rbxassetid://id вставляем ID скрипта с роблокс студио, если вы его выложили)
+          ```loadstring(game:HttpGet("url"))()``` (в поле url вставляем нашу ссылку на raw файл со скриптом)
 
 Всё готово! Приятного пользования!
