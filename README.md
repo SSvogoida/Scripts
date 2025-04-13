@@ -7,7 +7,7 @@
 
 Пишем в наш инжектор:
 
-          ```loadstring(game:HttpGet("url"))()```
+          loadstring(game:HttpGet("url"))()
 
 В поле ("url") вставляем вместо надписи url ссылку на Raw.
 
