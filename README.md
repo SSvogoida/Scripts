@@ -29,7 +29,7 @@
 
 We write in our injector:
 
-~~~loadstring(game:HttpGet("url"))()~~~
+loadstring(game:HttpGet("url"))()
 
 In the field ("url") we insert a link to Raw instead of the inscription url.
 
