@@ -27,7 +27,7 @@
 
 ##
 
-We write in our injector:
+We write in our executor:
 
           loadstring(game:HttpGet("url"))()
 
