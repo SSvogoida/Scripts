@@ -40,4 +40,3 @@ In the field ("url") we insert a link to Raw instead of the inscription url.
 3: we are transferred to another site, in the address field we copy the link to the raw itself.
 
 Everything is ready! Enjoy using it!
-Everything is ready! Enjoy using it!
